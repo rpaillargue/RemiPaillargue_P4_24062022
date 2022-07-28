@@ -17,6 +17,7 @@ button {
 a:hover {
     text-decoration: none;
     cursor: pointer;
+    color: white;
 }
 
 #page-loading-blocs-notifaction {
@@ -134,7 +135,7 @@ a:hover {
 .d-bloc h5 a,
 .d-bloc h6 a,
 .d-bloc p a {
-    color: rgba(255, 255, 255, .6);
+    color: rgba(255, 255, 255, .6);	
 }
 
 .d-bloc .a-btn:hover,
@@ -681,6 +682,34 @@ p {
     font-size: 18px;
 }
 
+.partner_title {
+    font-size: 20px;
+    color: #000000!important;
+    text-align: center;
+    font-weight: 700;
+}
+
+.partner {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    text-align: center;
+    width: 100%;
+    font-size: 16px;
+}
+
+.partner-a {
+    padding: 0 20px;
+    margin-bottom: 20px;
+    color: #000!important;
+    font-weight: 600;
+}
+
+
+.col-sm-24 {
+    width: 100%;
+}
+
 .tight-width-whitespace {
     max-width: 600px;
     margin: auto auto auto auto;
@@ -743,6 +772,11 @@ h4 {
 
 .white {
     color: #FFFFFF!important;
+}
+
+.black {
+    color: #000!important;
+    font-weight: 700;
 }
 
 .portfolio-thumb {
