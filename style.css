@@ -718,6 +718,10 @@ h3 {
     color: #333333!important;
 }
 
+.text-quote {
+    font-size: 13px
+}
+
 .med-width-whitespace {
     max-width: 800px;
     margin: auto auto auto auto;
