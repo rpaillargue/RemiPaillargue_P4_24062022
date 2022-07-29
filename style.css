@@ -682,6 +682,11 @@ p {
     font-size: 18px;
 }
 
+.client {
+    font-size: 24px;
+    font-weight: 700;
+}
+
 .partner_title {
     font-size: 20px;
     color: #000000!important;
@@ -707,6 +712,27 @@ p {
 
 
 .col-sm-24 {
+    width: 100%;
+}
+
+.quote_2 {
+    font-size: 24px;
+    font-weight: 700;
+}
+
+.design {
+    text-align: center;
+}
+
+.design_2 {
+    text-align: center;
+}
+
+.row-23 {
+    width: 100%;
+}
+
+.col-sm-23 {
     width: 100%;
 }
 
