@@ -736,6 +736,10 @@ p {
     width: 100%;
 }
 
+.form-group {
+    margin-bottom: 10px;
+}
+
 .tight-width-whitespace {
     max-width: 600px;
     margin: auto auto auto auto;
