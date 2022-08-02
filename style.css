@@ -12,12 +12,13 @@ button {
     transition: all .3s ease-in-out;
     outline: none!important;
     cursor: pointer;
+    text-decoration: none;
 }
 
 a:hover {
     text-decoration: none;
     cursor: pointer;
-    color: white;
+    color: white
 }
 
 #page-loading-blocs-notifaction {
@@ -292,6 +293,16 @@ a:hover {
 .navbar {
     margin-bottom: 0;
     z-index: 1;
+}
+
+.nav2 {
+    padding-right: 300px;
+    padding-bottom: 50px;
+    list-style: none;
+}
+
+.list2 {
+    margin-right: 50px;
 }
 
 .navbar-brand {
@@ -718,6 +729,7 @@ p {
 .quote_2 {
     font-size: 24px;
     font-weight: 700;
+    margin: 20px;
 }
 
 .design {
@@ -884,7 +896,7 @@ h4 {
 }
 
 .bg-lines-h2-bg {
-    background-image: url("img/lines-h2-bg.png");
+    background-image: url("img/lines-h2-bg.jpg");
 }
 
 .bg-banniere {
