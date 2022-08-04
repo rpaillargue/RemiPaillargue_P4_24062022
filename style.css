@@ -42,6 +42,7 @@ a:hover {
     position: relative;
 }
 
+
 .bloc .container {
     padding-left: 0;
     padding-right: 0;
@@ -687,6 +688,10 @@ a {
     font-weight: lighter;
     max-width: 520px;
     margin: auto auto auto auto;
+}
+
+.img-responsive {
+    width: 100%;
 }
 
 p {
